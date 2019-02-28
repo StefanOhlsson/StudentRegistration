@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019-jan-24, 12:23:16
+    Author     : Stefan Ohlsson
+*/
+
+body{
+    
+    font-family: "Century Gothic";
+    font-size: 14px;
+    
+    background-image: url("img/pexels-photo-1146708.jpeg");
+    
+    h1{
+        color: #cc0000;
+        font-size: xx-large;
+    }
+    
+    
+}
